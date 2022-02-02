@@ -1,1 +1,0 @@
-Hello, Let's learn about Git from today
